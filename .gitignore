@@ -1,0 +1,20 @@
+# Compiled Binary Executables
+matrix_sequential
+matrix_openmp
+matrix_mpi
+mpi_send_recv
+matrix_cuda
+
+# Object Files & Output Executables
+*.o
+*.obj
+*.out
+*.exe
+
+# Python Cache (from running chart script)
+__pycache__/
+*.pyc
+
+# System Junk
+.DS_Store
+Thumbs.db
